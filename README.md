@@ -1,5 +1,5 @@
 **Overview**
-Automate demo E-Commerce Website with Playwright (Typescript) with Cucumber 
+Automate demo E-Commerce Website with Playwright (Typescript) + Cucumber 
 
 **Get Started**
 Setup:
