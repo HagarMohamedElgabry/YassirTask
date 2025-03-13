@@ -1,8 +1,8 @@
-Playwright (TS binding) + Cucumber (BDD)
+**Playwright (TS binding) + Cucumber (BDD)**
 Cucumber is a popular behavior-driven development (BDD) tool that allows developers and stakeholders to collaborate on defining and testing application requirements in a human-readable format.
 
 
-Get Started
+**Get Started**
 Setup:
 1. Clone or download the project
 2. Extract and open in the VS-Code
@@ -15,14 +15,26 @@ Setup:
          ] 
 Use npm run test 
 
-Folder structure
-src\test\features -> write your features here
-src\test\steps -> Your step definitions goes here
-src\hooks\hooks.ts -> Browser setup and teardown logic
-src\hooks\pageFixture.ts -> Simple way to share the page objects to steps
-src\locators -> All locators used in the task
-src\config -> Multiple environment and Configuration are handled
-src\helper\report -> To generate the report
-cucumber.json -> One file to do all the configuration related to cucumber
-package.json -> Contains all the dependencies
+**Folder structure:**
+  ├── /src
+  │   ├── /test
+  │   │   ├── /steps
+  │   │   │   ├── TC1_RegistrationAndLoginSteps.ts  
+              ├── TC2_EditUserInformationSteps.ts  
+              ├── TC3_BuyProductSteps.ts 
+  │   │   ├── /features
+  │   │   │   ├── buyProduct.feature 
+              ├── editUserInformation.feature 
+              ├── registrationAndLogin.feature 
+  │   │   ├── /hooks
+              ├── pageFixture.ts
+              ├── hooks.ts
+  │   │   ├── /locators
+              ├── locotor.ts
+  │   │   ├── /helper
+              ├── report.ts
+  │  │   ├── /config
+              ├── env.ts             
 
+
+![image](https://github.com/user-attachments/assets/a06def0c-e6b1-4c25-a6ae-3765a999de25)
