@@ -15,7 +15,18 @@ Setup:
          ] 
 Use npm run test 
 
-**Folder structure:**
+**Folder structure:**<br/>
+
+
+- src\test\features -> write your features here<br/>
+- src\test\steps -> Your step definitions goes here<br/>
+- src\hooks\hooks.ts -> Browser setup and teardown logic<br/>
+- src\hooks\pageFixture.ts -> Simple way to share the page objects to steps<br/>
+- src\locators -> All locators used in the task<br/>
+- src\config -> Environment and Configuration are handled<br/>
+- src\helper\report -> To generate the report<br/>
+- cucumber.json -> One file to do all the configuration related to cucumber<br/>
+- package.json -> Contains all the dependencies<br/>
 ![image](https://github.com/user-attachments/assets/cbf7de3e-b652-498d-9d61-6316a8fa74de)
       
 
