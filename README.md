@@ -1,8 +1,8 @@
-**Overview**
+**Overview**<br/>
 Automate demo E-Commerce Website with Playwright (Typescript) + Cucumber 
 
-**Get Started**
-Setup:
+**Get Started**<br/>
+**Setup:** <br/>
 1. Clone or download the project
 2. Extract and open in the VS-Code
 3. npm i to install the dependencies
