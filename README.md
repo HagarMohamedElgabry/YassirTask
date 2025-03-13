@@ -16,25 +16,8 @@ Setup:
 Use npm run test 
 
 **Folder structure:**
-  ├── /src
-  │   ├── /test
-  │   │   ├── /steps
-  │   │   │   ├── TC1_RegistrationAndLoginSteps.ts  
-              ├── TC2_EditUserInformationSteps.ts  
-              ├── TC3_BuyProductSteps.ts 
-  │   │   ├── /features
-  │   │   │   ├── buyProduct.feature 
-              ├── editUserInformation.feature 
-              ├── registrationAndLogin.feature 
-  │   │   ├── /hooks
-              ├── pageFixture.ts
-              ├── hooks.ts
-  │   │   ├── /locators
-              ├── locotor.ts
-  │   │   ├── /helper
-              ├── report.ts
-  │  │   ├── /config
-              ├── env.ts             
+![image](https://github.com/user-attachments/assets/cbf7de3e-b652-498d-9d61-6316a8fa74de)
+      
 
-
+**Test Result Report:**
 ![image](https://github.com/user-attachments/assets/a06def0c-e6b1-4c25-a6ae-3765a999de25)
