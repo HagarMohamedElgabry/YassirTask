@@ -26,9 +26,7 @@ Use npm run test
 - src\config -> Environment and Configuration are handled<br/>
 - src\helper\report -> To generate the report<br/>
 - cucumber.json -> One file to do all the configuration related to cucumber<br/>
-- package.json -> Contains all the dependencies<br/>
-![image](https://github.com/user-attachments/assets/cbf7de3e-b652-498d-9d61-6316a8fa74de)
-      
+- package.json -> Contains all the dependencies<br/>      
 
 **Test Result Report:**
 ![image](https://github.com/user-attachments/assets/a06def0c-e6b1-4c25-a6ae-3765a999de25)
