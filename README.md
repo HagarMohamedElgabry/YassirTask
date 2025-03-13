@@ -1,6 +1,5 @@
-**Playwright (TS binding) + Cucumber (BDD)**
-Cucumber is a popular behavior-driven development (BDD) tool that allows developers and stakeholders to collaborate on defining and testing application requirements in a human-readable format.
-
+**Overview**
+Automate demo E-Commerce Website with Playwright (Typescript) with Cucumber 
 
 **Get Started**
 Setup:
